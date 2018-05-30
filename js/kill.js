@@ -17,7 +17,7 @@ $(function() {
         animIndex++
     }
     window.setInterval(doInverseSpinZeroPitch, 250);
-    var tKillNames = ["Dukk1ware"];
+    var tKillNames = ["Mickje"];
     var ctKillNames = ["GETZE.US", "INIURIA.US", "MUTINY.PW", "AIMWARE.NET", "SKEET.CC" , "1TAP.CC"];
     var weapons = ["deagle","ssg","ak47","g3sg1"];
     var $killFeedContainer = $('.kill-feed');
